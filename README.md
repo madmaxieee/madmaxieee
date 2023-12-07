@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am a student and software developer from Taiwan.
+
 <picture>
   <source
     srcset="https://github-readme-stats-madmaxieee.vercel.app/api?username=madmaxieee&show_icons=true&theme=tokyonight"
