@@ -3,28 +3,15 @@
 I am a student and software developer from Taiwan.
 
 <picture>
-  <source
-    srcset="https://github-readme-stats-madmaxieee.vercel.app/api?username=madmaxieee&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-madmaxieee.vercel.app/api?username=madmaxieee&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img alt="madmaxieee's github stats" src="https://github-readme-stats-madmaxieee.vercel.app/api?username=madmaxieee&show_icons=true&theme=tokyonight" />
+  <source srcset="./assets/stats-dark.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="./assets/stats-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img alt="madmaxieee's github stats" src="./assets/stats-light.svg" />
 </picture>
 
 <br />
 
 <picture>
-  <source
-    srcset="https://github-readme-stats-madmaxieee.vercel.app/api/top-langs?username=madmaxieee&exclude_repo=Tower-Defense&hide=verilog,html,qml,matlab,css,makefile&theme=tokyonight&layout=donut"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats-madmaxieee.vercel.app/api/top-langs?username=madmaxieee&exclude_repo=Tower-Defense&hide=verilog,html,qml,matlab,css,makefile&layout=donut"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img alt="madmaxieee's most used languages"
-     src="https://github-readme-stats-madmaxieee.vercel.app/api/top-langs?username=madmaxieee&exclude_repo=Tower-Defense&hide=verilog,html,qml,matlab,css,makefile&theme=tokyonight&layout=donut" />
+  <source srcset="./assets/top-langs-dark.svg" media="(prefers-color-scheme: dark)" />
+  <source srcset="./assets/top-langs-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img alt="madmaxieee's most used languages" src="./assets/top-langs-light.svg" />
 </picture>
