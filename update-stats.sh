@@ -13,9 +13,13 @@ date=$(date '+%Y-%m-%d')
 
 rm -rf ./assets/*.svg
 curl -s "$stats_url" > "./assets/stats-light-$date.svg"
+echo "fetched stats-light-$date.svg"
 curl -s "$top_langs_url" > "./assets/top-langs-light-$date.svg"
+echo "fetched top-langs-light-$date.svg"
 curl -s "$stats_url$dark_theme" > "./assets/stats-dark-$date.svg"
+echo "fetched stats-dark-$date.svg"
 curl -s "$top_langs_url$dark_theme" > "./assets/top-langs-dark-$date.svg"
+echo "fetched top-langs-dark-$date.svg"
 
 tmp_file=$(mktemp)
 
