@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">&#33674;&#21152;&#26093; (Max Chuang)'s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 19, Total Commits in 2024 : 19, Total PRs: 71, Total Issues: 58, Contributed to (last year): 38</desc>
+        <desc id="descId">Total Stars Earned: 20, Total Commits in 2024 : 20, Total PRs: 71, Total Issues: 58, Contributed to (last year): 40</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 98.83206832540124;
+        stroke-dashoffset: 98.47323682456259;
       }
     }
   
@@ -162,7 +162,7 @@
         x="219.01"
         y="12.5"
         data-testid="stars"
-      >19</text>
+      >20</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -222,7 +222,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >38</text>
+      >40</text>
     </g>
   </g>
     </svg>
