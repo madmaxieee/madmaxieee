@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student and software developer from Taiwan.
+I am a firmware engineer from Taiwan.
 
 <picture>
   <source srcset="./assets/stats-dark-2024-09-11.svg" media="(prefers-color-scheme: dark)" />
