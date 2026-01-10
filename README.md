@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a firmware engineer from Taiwan.
+I am a software/firmware engineer from Taiwan.
 
 <picture>
   <source srcset="./assets/stats-dark-2026-01-11.svg" media="(prefers-color-scheme: dark)" />
