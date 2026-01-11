@@ -1,5 +1,7 @@
 #! /usr/bin/env bash
 
+set -euo pipefail
+
 # cd to the location of this script
 cd "$(dirname "$0")" || exit 1
 # cd to the root of the repo
@@ -8,8 +10,8 @@ cd "$(git rev-parse --show-toplevel)" || exit 1
 git switch main
 git pull
 
-stats_url="https://github-readme-stats-madmaxieee.vercel.app/api/top-langs?username=madmaxieee&exclude_repo=Tower-Defense&hide=verilog,html,qml,matlab,css,makefile&layout=donut"
-top_langs_url="https://github-readme-stats-madmaxieee.vercel.app/api?username=madmaxieee&show_icons=true"
+stats_url="https://github-readme-stats-madmaxieee.vercel.app/api?username=madmaxieee&show_icons=true"
+top_langs_url="https://github-readme-stats-madmaxieee.vercel.app/api/top-langs?username=madmaxieee&exclude_repo=Tower-Defense&hide=verilog,html,qml,matlab,css,makefile&layout=donut"
 dark_theme="&theme=tokyonight"
 
 date=$(date '+%Y-%m-%d')
